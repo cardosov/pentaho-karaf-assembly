@@ -271,6 +271,6 @@
     <bundle>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/${fasterxml-jackson.version}</bundle>
     <bundle>mvn:com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/${fasterxml-jackson.version}</bundle>
     <bundle>mvn:com.fasterxml.jackson.module/jackson-module-jaxb-annotations/${fasterxml-jackson.version}</bundle>
-    <bundle>mvn:org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-2.0/2.4.0</bundle>
+    <bundle>mvn:org.apache.servicemix.specs/org.apache.servicemix.specs.jsr339-api-2.0.1/2.6.0</bundle>
   </feature>
 </features>
